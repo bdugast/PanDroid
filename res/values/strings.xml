@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ours</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="login">"Login : "</string>
+    <string name="mot_de_passe">"Mot de passe : "</string>
+    <string name="se_connecter">Se Connecter</string>
+    <string name="formulaire_de_connexion">Formulaire de Connexion</string>
+    <string name="todo">TODO</string>
+    <string name="vider">Vider</string>
+    <string name="erreurLogin">Erreur de login ou de mot de passe</string>
+    
+    
+    <color name="green">#99CC00</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#CC0000</color>
+    <string name="espace_membre">Espace Membre</string>
+    <string name="voir_les_messages">Voir les messages</string>
+    <string name="ajouter_un_message">Ajouter un message</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="votre_texte">Taper votre texte ici :</string>
+    <string name="retour">Retour</string>
+    <string name="rafraichir">rafraichir</string>
+    
+    
+
+</resources>
