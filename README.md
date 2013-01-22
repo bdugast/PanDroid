@@ -5,6 +5,8 @@ Projet Android Parlez-Vous
 
 Ceci est le projet à réaliser pour le cours Android.
 
+
+
 Sur le projet nous avons réaliser :
 
   Affichage d'un message lors d'une erreur de connexion,
