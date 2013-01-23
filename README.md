@@ -17,7 +17,7 @@ Sur le projet nous avons réaliser :
  
   Classe messages qui peut être utilisé de façon plus approfondie en cas d'évolution de l'application,
   
-  Bouton personnalisés,
+  Bouton personnalisés(avec un selector pour changer l'image lorsque l'on appuie sur le bouton),
   
   Liste déroulante avec l'ensemble des messages (le plus récent en haut),
   
