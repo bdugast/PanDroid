@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView_menu_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/tete_panda"        
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/desc_image"/>
+    
+    <TextView
+        android:id="@+id/textView_menu_informations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/imageButton_menu_voir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/selec_voir"
+        android:contentDescription="@string/desc_voir" />
+
+    <ImageButton
+        android:id="@+id/imageButton_menu_ecrire"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/selec_ecrire"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/desc_envoyer"/>
+    
+    <ImageView
+        android:id="@+id/imageView_menu_footer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bas_panda_plus"        
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/desc_image"/>
+
+</LinearLayout>
