@@ -6,10 +6,15 @@ Consignes du projet : http://a-thomas.github.com/ParlezVous/
 
 ## Screenshots
 
+<a href="http://www.hostingpics.net/viewer.php?id=873045logo.png"><img src="http://img15.hostingpics.net/thumbs/mini_873045logo.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=316173login.png"><img src="http://img15.hostingpics.net/thumbs/mini_316173login.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=413963menu.png"><img src="http://img15.hostingpics.net/thumbs/mini_413963menu.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=662216ecrire.png"><img src="http://img15.hostingpics.net/thumbs/mini_662216ecrire.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=426134voir.png"><img src="http://img15.hostingpics.net/thumbs/mini_426134voir.png" alt="Heberger image" /></a>
 
 ## Pourquoi Pandroid ?
 
-En référence à l'humour des créateurs. Après tout pourquoi pas ?
+Et pourquoi pas ? Il faut bien trouver un nom n'est-ce-pas ?
 
 ## Fonctionnalités
 
@@ -31,4 +36,4 @@ En référence à l'humour des créateurs. Après tout pourquoi pas ?
 
 ## Bonus
 
-Un apk est fourni, prêt à l'emploi !
+Parce que rien ne vaut l'essai -> un apk est fourni, prêt à l'emploi !
