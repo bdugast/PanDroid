@@ -4,14 +4,6 @@ Ce projet rentre dans le cadre du cours de développement Android dispensé par 
 
 Consignes du projet : http://a-thomas.github.com/ParlezVous/
 
-## Screenshots
-
-<a href="http://www.hostingpics.net/viewer.php?id=873045logo.png"><img src="http://img15.hostingpics.net/thumbs/mini_873045logo.png" alt="Heberger image" /></a>
-<a href="http://www.hostingpics.net/viewer.php?id=316173login.png"><img src="http://img15.hostingpics.net/thumbs/mini_316173login.png" alt="Heberger image" /></a>
-<a href="http://www.hostingpics.net/viewer.php?id=413963menu.png"><img src="http://img15.hostingpics.net/thumbs/mini_413963menu.png" alt="Heberger image" /></a>
-<a href="http://www.hostingpics.net/viewer.php?id=662216ecrire.png"><img src="http://img15.hostingpics.net/thumbs/mini_662216ecrire.png" alt="Heberger image" /></a>
-<a href="http://www.hostingpics.net/viewer.php?id=426134voir.png"><img src="http://img15.hostingpics.net/thumbs/mini_426134voir.png" alt="Heberger image" /></a>
-
 ## Pourquoi Pandroid ?
 
 Et pourquoi pas ? Il faut bien trouver un nom n'est-ce-pas ?
@@ -33,6 +25,14 @@ Et pourquoi pas ? Il faut bien trouver un nom n'est-ce-pas ?
 - Rafraichissement de la liste de messages
 - Affichage du nombre de messages
 - Vérification de la connexion internet au démarrage de l'application
+
+## Screenshots
+
+<a href="http://www.hostingpics.net/viewer.php?id=873045logo.png"><img src="http://img15.hostingpics.net/thumbs/mini_873045logo.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=316173login.png"><img src="http://img15.hostingpics.net/thumbs/mini_316173login.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=413963menu.png"><img src="http://img15.hostingpics.net/thumbs/mini_413963menu.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=662216ecrire.png"><img src="http://img15.hostingpics.net/thumbs/mini_662216ecrire.png" alt="Heberger image" /></a>
+<a href="http://www.hostingpics.net/viewer.php?id=426134voir.png"><img src="http://img15.hostingpics.net/thumbs/mini_426134voir.png" alt="Heberger image" /></a>
 
 ## Bonus
 
