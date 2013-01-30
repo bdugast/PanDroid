@@ -38,4 +38,6 @@ Et pourquoi pas ? Il faut bien trouver un nom n'est-ce-pas ?
 
 Parce que rien ne vaut l'essai -> un apk est fourni, prêt à l'emploi !
 
-## Réalisé par : Simon Peraudeau et Benjamin Dugast
+## Réalisé par
+
+ Simon Peraudeau et Benjamin Dugast
